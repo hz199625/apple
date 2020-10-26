@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "QMV3L4MA6L.com.haibaoshow.youbo",
+            "paths": ["*"]
+            },{
+            "appID": "8CULH26XU6.com.youbo.youbao",
+            "paths": ["*"]
+            },]
+    }
+}
